@@ -9,7 +9,7 @@ For details on ATRIC, please read the published paper: http://www.sciencedirect.
 
 You need to have the latest version of R and GRASS GIS version 6.4 installed in your computer. Details on how to initiate GRASS GIS from R interface for different operating systems are available in the commented R script "ATRIC_script.R". Note that a new stable version of GRASS GIS (7.0) is now available where parameter names for some modules have been changed. Consequently, the script might not work if you install or update your GRASS GIS 6.4 with GRASS GIS 7.0. I will release a script for GRASS GIS 7.0 soon.
 
-## Reproduce the results of the paper ##
+## Reproduce results of the paper ##
 
 If you would like to reproduce our results in the paper or just would like to get familiar with the functionalities of ATRIC, download the "ATRIC_Data.zip" and run the script.  
 
